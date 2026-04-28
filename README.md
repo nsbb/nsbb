@@ -2,7 +2,7 @@
  
 <!-- [![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&show_icons=true&theme=midnight-purple)-->
-[![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&show_icons=true&theme=aura)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nsbb&theme=dracula&rank=-C,-?&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
