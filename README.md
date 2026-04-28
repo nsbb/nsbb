@@ -5,7 +5,7 @@
 [![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&show_icons=true&theme=aura)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nsbb&theme=aura&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nsbb&theme=dracula&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nsbb/nsbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
