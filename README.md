@@ -4,7 +4,7 @@
 <!--![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&show_icons=true&theme=midnight-purple)-->
 [![nsbb's GitHub stats](https://github-stats-extended.vercel.app/api?username=nsbb&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/stats-organization/github-stats-extended)
 <!--![nsbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsbb&show_icons=true&theme=aura)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=nsbb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nsbb)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
